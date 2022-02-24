@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Devil-40
+- 👀 I’m interested in learning...
+- 🌱 I’m currently learning Ethical Hacking...
+- 💞️ I’m looking to collaborate on Ethical Hacking...
+
+<!---
+Devil-40/Devil-40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
